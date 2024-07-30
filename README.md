@@ -1,0 +1,1 @@
+The Online Banking System is a comprehensive Java application designed to simulate the essential functionalities of a modern banking system. This project showcases a range of banking operations, demonstrating secure and efficient management of user accounts, transactions, and customer data. The system is built with a focus on scalability, security, and user-friendliness.
